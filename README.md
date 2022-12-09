@@ -1,4 +1,6 @@
 # KB9807-XamDataGrid-GetRecordsInView
+XamDataGrid: 実際に画面に表示されているレコード(行)のみのコレクションを取得する方法
+https://kb.jp.infragistics.com/?p=9807
 
 XamDataGrid にバインドされているデータ数が多く縦スクロールバーが表示されている状態で、
 画面上に表示されているレコード（行）のみを取得する際には、GetRecordsInView メソッドを
